@@ -1,8 +1,7 @@
 package part1.lesson01;
 
 /**
- * Hello world!
- *
+ * Homework part 1, lesson 1, task 1
  */
 public class App 
 {
