@@ -1,4 +1,4 @@
-package part1.lesson01;
+package com.gmail.egorovsonalexey.lesson01;
 
 import static org.junit.Assert.assertTrue;
 

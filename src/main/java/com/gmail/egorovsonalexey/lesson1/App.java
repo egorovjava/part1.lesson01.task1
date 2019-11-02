@@ -1,4 +1,4 @@
-package part1.lesson01;
+package com.gmail.egorovsonalexey.lesson1;
 
 /**
  * Homework part 1, lesson 1, task 1
